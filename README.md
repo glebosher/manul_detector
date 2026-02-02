@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Ultralytics YOLOv8](https://img.shields.io/badge/YOLOv8-ultralytics-red)](https://github.com/ultralytics/ultralytics)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Проект по компьютерному зрению для автоматического мониторинга популяции манулов - редкого вида, занесённого в Красную книгу России.**
 
@@ -29,9 +28,9 @@
 
 ## 📸 Демонстрация работы
 
-![Манул](test_images/манул (1).jpg)
-![Манул](test_images/манул (3).jpg)
-![Кошка](test_images/кошка (8).jpg)
-![Кошка](test_images/кошка (9).jpg)
-![Рысь](test_images/рысь (20).jpg)
-![Рысь](test_images/рысь (21).jpg)
+![Манул](test_images/'манул (1).jpg')
+![Манул](test_images/'манул (3).jpg')
+![Кошка](test_images/'кошка (8).jpg')
+![Кошка](test_images/'кошка (9).jpg')
+![Рысь](test_images/'рысь (20).jpg')
+![Рысь](test_images/'рысь (21).jpg')
